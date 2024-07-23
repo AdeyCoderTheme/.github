@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
+Welcome to __Adey Coder Theme__ git page.
+
+Adey Coder Theme is a theme started as hobby to build a green dark theme for Visual Studio Code.
 <!--
 
 **Here are some ideas to get you started:**
